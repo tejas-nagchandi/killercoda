@@ -1,6 +1,6 @@
 {
   "items": [
-    { "path": "pre-work" },
+    { "path": "pre-work", "title": "Pre Work" },
     { "path": "ubuntu-simple" }
   ]
 }

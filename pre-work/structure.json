@@ -1,0 +1,7 @@
+{
+  "items": [
+    { "path": "docker-image" },
+    { "path": "container" },
+    { "path": "kubernetes"}
+  ]
+}
